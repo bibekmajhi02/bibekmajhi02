@@ -32,7 +32,7 @@ Stay tuned for updates as I upload my college and personal projects.
 
 ## 📫 Connect with Me
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/bibekmajhi](https://linkedin.com/)
+- 💼 LinkedIn: [linkedin.com/in/bibekmajhi](https://www.linkedin.com/in/bibek-majhi/)
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
